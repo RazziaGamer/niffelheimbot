@@ -24,7 +24,7 @@ module.exports = {
 
   // Imgflip username and password, used for creating memes with `!meme`.
   // Create an account here. https://imgflip.com
-  IMGFLIP_USERNAME: 'RazzGamingDK_',
+  IMGFLIP_USERNAME: 'madslundgren03@gmail.com',
   IMGFLIP_PASSWORD: 'gax95rqf',
 
   // Champion.gg API key, used for the League of Legends `!lol` commands.
