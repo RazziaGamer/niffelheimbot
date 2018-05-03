@@ -20,7 +20,7 @@ module.exports = {
 
   // Youtube API key, used for searching videos with `!youtube`.
   // Learn more here. https://developers.google.com/youtube/v3/getting-started
-  YOUTUBE_KEY: '',
+  YOUTUBE_KEY: 'AIzaSyB3Mzi-kBU5sW4KRfEpdv-QdvPXs583qlY',
 
   // Imgflip username and password, used for creating memes with `!meme`.
   // Create an account here. https://imgflip.com
