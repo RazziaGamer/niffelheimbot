@@ -1,6 +1,6 @@
 module.exports = {
   // *Required* Prefix for commands.
-  PREFIX: '/',
+  PREFIX: '-',
   PORT: 5000,
 
   // *Required* Bot token. Can be found in your bots application page.
@@ -24,8 +24,8 @@ module.exports = {
 
   // Imgflip username and password, used for creating memes with `!meme`.
   // Create an account here. https://imgflip.com
-  IMGFLIP_USERNAME: '',
-  IMGFLIP_PASSWORD: '',
+  IMGFLIP_USERNAME: 'RazzGamingDK_',
+  IMGFLIP_PASSWORD: 'gax95rqf',
 
   // Champion.gg API key, used for the League of Legends `!lol` commands.
   // Create a key here. http://api.champion.gg
