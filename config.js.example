@@ -5,7 +5,7 @@ module.exports = {
 
   // *Required* Bot token. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  TOKEN: 'NDQxNTMxMTQyMDY4MzcxNDU2.Dcxnbw.fbn73y76yXMn5XvTZx678V8KDas',
+  TOKEN: 'NDQxNTMxMTQyMDY4MzcxNDU2.Dcx5kg.Z5kyQgHzseE-46VIUOqOPZaTOqI',
 
   // *Required* Bot client ID. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
