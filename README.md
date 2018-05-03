@@ -1,2 +1,2 @@
-# niffelheimbot
-NiffelHeim Bot
+# RazzBot
+RazzBot
