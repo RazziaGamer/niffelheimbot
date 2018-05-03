@@ -1,6 +1,6 @@
 module.exports = {
   // *Required* Prefix for commands.
-  PREFIX: '!',
+  PREFIX: '/',
   PORT: 5000,
 
   // *Required* Bot token. Can be found in your bots application page.
